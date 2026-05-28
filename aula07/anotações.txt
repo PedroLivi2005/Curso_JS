@@ -1,0 +1,37 @@
+var x = 5
+x = 5
+
+x = x + 1
+x = x - 1
+
+Simplificando:
+x += 1
+x -= 1
+
+Simplificando:
+x++
+x--
+
+--------
+Operadores lógicos
+<
+>
+>=
+<=
+==
+!=
+
+---------
+Precedência
+() ** /
+> < >=
+!
+&&
+||
+
+Operador Ternário
+Ex:
+média >= 7.0 ? "Aprovado : "Reprovado"
+
+True "Aprovado"
+False "Reprovado"
