@@ -1,0 +1,7 @@
+ /*
+var d = window.document.getElementById('msg')
+d.style.background = 'green'
+d.innerText = 'Estou aguardando...'
+*/ 
+var d = window.document.getElementsByTagName('msg')[0]        
+d.innerText = 'Olá'
